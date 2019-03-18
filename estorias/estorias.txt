@@ -1,0 +1,13 @@
+Estórias:
+
+1) Eu como um bom frequentador de bares gostaria de apostar bebidas e comidas em diversos jogos, como sinuca e baralho inicialmente, para poder fazer novas amizades enquanto frequento bares.
+
+2) Eu como dono de um bar, gostaria de fazer o cadastro do meu bar na aplicação, informando para os possíveis frequentadores, informações sobre o meu estabelecimento, como o endereço, menu, nome do bar, descrição e fotos, permitindo que eles possam fazer seus jogos e suas apostas de itens do menu do meu bar.
+
+3) Eu como um bom jogador, apostador e frequentador de bares, gostaria de mostrar para os meus companheiros qual é o meu ranking e histórico de apostas na aplicação, podendo mostrar dados como data da aposta, o que foi apostado, qual foi o resultado e em qual bar o jogo ocorreu.
+
+4) Eu como frequentador de bares, gostaria de encontrar outros frequentadores de bares para que possamos marcar uma partida, devemos poder escolher o bar, data do jogo e algum item do menu para ser apostado.
+
+5) Eu como jogador e apostador, gostaria de que o resultado de uma partida fosse anotado / marcado por um funcionário do bar no qual o jogo ocorreu, para que a minha partida seja finalizada.
+
+6) Eu como funcionário de um bar, gostaria de poder finalizar uma partida que aconteceu no bar em que trabalho, para que o resultado possa ser computado.
