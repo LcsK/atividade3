@@ -32,6 +32,7 @@
     "eslint-plugin-import": "^2.16.0"
   },
   "dependencies": {
-    "jest": "^24.5.0"
+    "jest": "^24.5.0",
+    "module-alias": "^2.2.0"
   }
 }
