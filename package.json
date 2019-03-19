@@ -5,7 +5,11 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test:unit": "jest test/unit",
+    "test": "npm run test:unit"
+  },
+  "_moduleAliases": {
+    "@domain": "src/domain/"
   },
   "repository": {
     "type": "git",
